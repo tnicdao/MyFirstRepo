@@ -1,4 +1,12 @@
 # This is my first repository
 
-## This is my second push
-Hello, everyone!
+## Instructions
+Create a python virtual environment.
+
+Create a virtual environment.
+
+`pythin -m venv env`
+
+Install the packages.
+
+`pip install -r requirements.txt`
