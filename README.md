@@ -5,7 +5,11 @@ Create a python virtual environment.
 
 Create a virtual environment.
 
-`pythin -m venv env`
+`python -m venv env`
+
+Activate the script (.bat in Command Prompt, .ps1 in Powershell)
+
+`env\Scripts\activate.bat`
 
 Install the packages.
 
